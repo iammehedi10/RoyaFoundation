@@ -1,0 +1,1 @@
+[15-May-2019 16:34:39 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Auth\RegistersUsers' not found in /home/royafoun/public_html/app/Http/Controllers/Auth/RegisterController.php on line 24
